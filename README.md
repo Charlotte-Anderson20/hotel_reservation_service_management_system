@@ -61,7 +61,7 @@ Backend: PHP
 
 Database: MySQL
 
-Payment: Integrated payment gateway (Stripe/PayPal/etc.)
+Payment: Integrated payment gateway (Stripe)
 
 🚀 How to Run
 
